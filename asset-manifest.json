@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Telsa_clone/static/css/main.4b1a72dc.css",
+    "main.js": "/Telsa_clone/static/js/main.3ac2bda0.js",
+    "index.html": "/Telsa_clone/index.html",
+    "main.4b1a72dc.css.map": "/Telsa_clone/static/css/main.4b1a72dc.css.map",
+    "main.3ac2bda0.js.map": "/Telsa_clone/static/js/main.3ac2bda0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1a72dc.css",
+    "static/js/main.3ac2bda0.js"
+  ]
+}
